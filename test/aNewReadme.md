@@ -1,4 +1,5 @@
-# Created a New Directory and file
-* Used github to create a new file
-* Typed test, then used "/" to create file or directory
-* Then added the name of the md file
+# Created a New Directory and File
+1. Used github to create a new file
+2. Typed `test`, then used "/" to create file or directory
+3. Added the name of the md file `aNewReadme.md`
+4. Edited the `aNewReadme.md` file
